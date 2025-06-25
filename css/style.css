@@ -342,6 +342,7 @@ body {
 	.main__subtitle {
 		margin-top: 0px;
 		font-size: 32px;
+		line-height: 45px;
 	}
 
 	.main__progress {
@@ -407,6 +408,7 @@ body {
 	}
 	.main__subtitle {
 		font-size: 30px;
+		line-height: 40px;
 	}
 }
 @media (max-width: 385px) {
@@ -421,6 +423,7 @@ body {
 	}
 	.main__subtitle {
 		font-size: 28px;
+		line-height: 35px;
 	}
 }
 @media (max-width: 365px) {
