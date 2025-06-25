@@ -336,7 +336,8 @@ body {
 		flex-direction: column;
 	}
 	.main__title {
-		margin-top: 3px;
+		margin-top: 5px;
+		color: #ff3939;
 		font-size: 60px;
 	}
 	.main__subtitle {
